@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
 
-body {
+body { 
 
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
+    
 }
 
 
@@ -96,7 +97,8 @@ section {
     margin: 0;
 }
 .hero-form p {
-       margin: 5px 0 15px 0; 
+       margin: 5px 0 15px 0;
+       font-size: 16px;
 }
 
 .form-input {
@@ -111,6 +113,8 @@ section {
 
 .hero-form label {
     margin: 0 5px;
+    font-size: 16px;
+
 }
 
 .hero-form button {
@@ -119,4 +123,25 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+}
+
+.intro {
+    text-align: center;
+}
+.intro h2  {
+    display: inline-block;
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid #fce138;
+    
+}
+.intro p {
+    line-height: 1.7;
+    color: #39a6b2;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+
 }
