@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hero {
   background-position: bottom;
   height: auto;
@@ -31,4 +32,39 @@ article p {
 article li {
   color: #39a6b2;
   margin: 10px 0 10px 0:
+=======
+.hero {
+  background-position: bottom;
+  height: auto;
+  text-align: center;
+  margin-bottom: 40px;
+}
+h2 {
+  color: #fce138;
+  display: inline-block;
+  border-bottom: 4px solid #fce138;
+  padding: 0 80px 15px 80px;
+  font-weight: normal;
+  font-style: italic;
+}
+article {
+  width: 80%;
+  margin: 80px 20px 80px 80px;
+  color:#024e76;
+
+}
+article h3 {
+  font-size: 25px;
+  margin: 20px 0 20px 0;
+}
+
+article p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 15px 20px 15px 20px;
+}
+article li {
+  color: #39a6b2;
+  margin: 10px 0 10px 0:
+>>>>>>> cf21f6d15e29a0d1cff9304e5e3da07b587f137f
 }
